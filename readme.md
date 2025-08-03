@@ -3,6 +3,7 @@
 ## 01. Spring Boot
 
 - Q 01. [Spring Boot의 동작 방식에 대해 설명하시오.](./spring-boot/01-SpringBootMechanism.md)
+    - [Layered Architecture](./spring-boot/01-SpringBootMechanism.md#레이어드-아키텍처layerd-architecture)
 - Q 02. Spring과 Spring Boot의 차이점에 대해 설명하시오.
 - Q 03. Lombok에 대해 설명하시오.
 - Q 04. `@RestController`와 `@Controller`의 차이점에 대해 설명하시오.
@@ -40,4 +41,3 @@
 
 - Q 01. MSA에 대해 설명하시오.
 - Q 02. 디자인 패턴에 대해 설명하시오.
-- Q 03. 레이어드 아키텍처에 대해 설명하시오.
