@@ -11,7 +11,7 @@
 - Q 06. IoC와 DI에 대해 설명하시오.
 - Q 07. `@Autowired`, `@Inject`, `@Resource`에 대해 설명하시오.
 - Q 08. AOP에 대해 설명하시오.
-- Q 09. Maven과 Gradle의 차이에 대해 설명하시오.
+- Q 09. [Maven과 Gradle의 차이에 대해 설명하시오.](./spring-boot/09-maven_vs_gradle.md)
 - Q 10. JAR와 WAR의 차이에 대해 설명하시오.
 
 ## 로깅(Logging)
